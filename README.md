@@ -1,1 +1,1 @@
-# Prisma-Nexus-for-tables-with-relation
+# Nexus_Authorization_using_JWT
