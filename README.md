@@ -1,2 +1,1 @@
-# Nexus_Authorization_using_JWT
-Nexus Authorization using JWT without authorize field 
+# Prisma-Nexus-for-tables-with-relation
